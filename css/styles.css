@@ -1,4 +1,29 @@
 *
 {
-    font-family: 'Arial', 'Helvetica', sans-serif;
+    font-family: 'Bree Serif', 'Merriweather', serif;
+}
+
+body {
+    margin:  0 4%;
+}
+
+h1, h2, h3, h4, h5, h6, a {
+    font-family: 'Crete Round', 'Courier', monspace;
+}
+
+h1, h2, h3, h4, h5, h6, img {
+    margin: auto;
+}
+
+#hero {
+    height: 400px;
+    background-image: url('/images/ian-baldwin-UA1UN-r9E5Y-unsplash.jpg');
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+.row {
+    margin: 3% 0;
+    padding: 3px;
 }
